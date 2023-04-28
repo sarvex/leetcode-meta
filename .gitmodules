@@ -1,0 +1,342 @@
+[submodule "leetcode-ada"]
+	path = leetcode-ada
+	url = https://github.com/sarvex/leetcode-ada
+[submodule "leetcode-algol"]
+	path = leetcode-algol
+	url = https://github.com/sarvex/leetcode-algol
+[submodule "leetcode-apl"]
+	path = leetcode-apl
+	url = https://github.com/sarvex/leetcode-apl
+[submodule "leetcode-assembly"]
+	path = leetcode-assembly
+	url = https://github.com/sarvex/leetcode-assembly
+[submodule "leetcode-bash"]
+	path = leetcode-bash
+	url = https://github.com/sarvex/leetcode-bash
+[submodule "leetcode-basic"]
+	path = leetcode-basic
+	url = https://github.com/sarvex/leetcode-basic
+[submodule "leetcode-beef"]
+	path = leetcode-beef
+	url = https://github.com/sarvex/leetcode-beef
+[submodule "leetcode-bhai"]
+	path = leetcode-bhai
+	url = https://github.com/sarvex/leetcode-bhai
+[submodule "leetcode-boo"]
+	path = leetcode-boo
+	url = https://github.com/sarvex/leetcode-boo
+[submodule "leetcode-brainfuck"]
+	path = leetcode-brainfuck
+	url = https://github.com/sarvex/leetcode-brainfuck
+[submodule "leetcode-c"]
+	path = leetcode-c
+	url = https://github.com/sarvex/leetcode-c
+[submodule "leetcode-c--"]
+	path = leetcode-c--
+	url = https://github.com/sarvex/leetcode-c--
+[submodule "leetcode-c3"]
+	path = leetcode-c3
+	url = https://github.com/sarvex/leetcode-c3
+[submodule "leetcode-carbon"]
+	path = leetcode-carbon
+	url = https://github.com/sarvex/leetcode-carbon
+[submodule "leetcode-chai"]
+	path = leetcode-chai
+	url = https://github.com/sarvex/leetcode-chai
+[submodule "leetcode-checked-c"]
+	path = leetcode-checked-c
+	url = https://github.com/sarvex/leetcode-checked-c
+[submodule "leetcode-chef"]
+	path = leetcode-chef
+	url = https://github.com/sarvex/leetcode-chef
+[submodule "leetcode-chez"]
+	path = leetcode-chez
+	url = https://github.com/sarvex/leetcode-chez
+[submodule "leetcode-chicken"]
+	path = leetcode-chicken
+	url = https://github.com/sarvex/leetcode-chicken
+[submodule "leetcode-clisp"]
+	path = leetcode-clisp
+	url = https://github.com/sarvex/leetcode-clisp
+[submodule "leetcode-clojure"]
+	path = leetcode-clojure
+	url = https://github.com/sarvex/leetcode-clojure
+[submodule "leetcode-clojurescript"]
+	path = leetcode-clojurescript
+	url = https://github.com/sarvex/leetcode-clojurescript
+[submodule "leetcode-cobol"]
+	path = leetcode-cobol
+	url = https://github.com/sarvex/leetcode-cobol
+[submodule "leetcode-coffeescript"]
+	path = leetcode-coffeescript
+	url = https://github.com/sarvex/leetcode-coffeescript
+[submodule "leetcode-cpp"]
+	path = leetcode-cpp
+	url = https://github.com/sarvex/leetcode-cpp
+[submodule "leetcode-crystal"]
+	path = leetcode-crystal
+	url = https://github.com/sarvex/leetcode-crystal
+[submodule "leetcode-csh"]
+	path = leetcode-csh
+	url = https://github.com/sarvex/leetcode-csh
+[submodule "leetcode-c-sharp"]
+	path = leetcode-c-sharp
+	url = https://github.com/sarvex/leetcode-c-sharp
+[submodule "leetcode-cyber"]
+	path = leetcode-cyber
+	url = https://github.com/sarvex/leetcode-cyber
+[submodule "leetcode-d"]
+	path = leetcode-d
+	url = https://github.com/sarvex/leetcode-d
+[submodule "leetcode-dart"]
+	path = leetcode-dart
+	url = https://github.com/sarvex/leetcode-dart
+[submodule "leetcode-elixir"]
+	path = leetcode-elixir
+	url = https://github.com/sarvex/leetcode-elixir
+[submodule "leetcode-elm"]
+	path = leetcode-elm
+	url = https://github.com/sarvex/leetcode-elm
+[submodule "leetcode-elvish"]
+	path = leetcode-elvish
+	url = https://github.com/sarvex/leetcode-elvish
+[submodule "leetcode-emoji-code"]
+	path = leetcode-emoji-code
+	url = https://github.com/sarvex/leetcode-emoji-code
+[submodule "leetcode-erlang"]
+	path = leetcode-erlang
+	url = https://github.com/sarvex/leetcode-erlang
+[submodule "leetcode-factor"]
+	path = leetcode-factor
+	url = https://github.com/sarvex/leetcode-factor
+[submodule "leetcode-fish"]
+	path = leetcode-fish
+	url = https://github.com/sarvex/leetcode-fish
+[submodule "leetcode-fortran"]
+	path = leetcode-fortran
+	url = https://github.com/sarvex/leetcode-fortran
+[submodule "leetcode-free-basic"]
+	path = leetcode-free-basic
+	url = https://github.com/sarvex/leetcode-free-basic
+[submodule "leetcode-free-pascal"]
+	path = leetcode-free-pascal
+	url = https://github.com/sarvex/leetcode-free-pascal
+[submodule "leetcode-f-sharp"]
+	path = leetcode-f-sharp
+	url = https://github.com/sarvex/leetcode-f-sharp
+[submodule "leetcode-g-forth"]
+	path = leetcode-g-forth
+	url = https://github.com/sarvex/leetcode-g-forth
+[submodule "leetcode-giz"]
+	path = leetcode-giz
+	url = https://github.com/sarvex/leetcode-giz
+[submodule "leetcode-go"]
+	path = leetcode-go
+	url = https://github.com/sarvex/leetcode-go
+[submodule "leetcode-gravity"]
+	path = leetcode-gravity
+	url = https://github.com/sarvex/leetcode-gravity
+[submodule "leetcode-guile"]
+	path = leetcode-guile
+	url = https://github.com/sarvex/leetcode-guile
+[submodule "leetcode-hack"]
+	path = leetcode-hack
+	url = https://github.com/sarvex/leetcode-hack
+[submodule "leetcode-harbour"]
+	path = leetcode-harbour
+	url = https://github.com/sarvex/leetcode-harbour
+[submodule "leetcode-haskell"]
+	path = leetcode-haskell
+	url = https://github.com/sarvex/leetcode-haskell
+[submodule "leetcode-haxe"]
+	path = leetcode-haxe
+	url = https://github.com/sarvex/leetcode-haxe
+[submodule "leetcode-holy-c"]
+	path = leetcode-holy-c
+	url = https://github.com/sarvex/leetcode-holy-c
+[submodule "leetcode-idris"]
+	path = leetcode-idris
+	url = https://github.com/sarvex/leetcode-idris
+[submodule "leetcode-intercal"]
+	path = leetcode-intercal
+	url = https://github.com/sarvex/leetcode-intercal
+[submodule "leetcode-io"]
+	path = leetcode-io
+	url = https://github.com/sarvex/leetcode-io
+[submodule "leetcode-ion"]
+	path = leetcode-ion
+	url = https://github.com/sarvex/leetcode-ion
+[submodule "leetcode-j"]
+	path = leetcode-j
+	url = https://github.com/sarvex/leetcode-j
+[submodule "leetcode-jai"]
+	path = leetcode-jai
+	url = https://github.com/sarvex/leetcode-jai
+[submodule "leetcode-java"]
+	path = leetcode-java
+	url = https://github.com/sarvex/leetcode-java
+[submodule "leetcode-javascript"]
+	path = leetcode-javascript
+	url = https://github.com/sarvex/leetcode-javascript
+[submodule "leetcode-julia"]
+	path = leetcode-julia
+	url = https://github.com/sarvex/leetcode-julia
+[submodule "leetcode-kotlin"]
+	path = leetcode-kotlin
+	url = https://github.com/sarvex/leetcode-kotlin
+[submodule "leetcode-ksh"]
+	path = leetcode-ksh
+	url = https://github.com/sarvex/leetcode-ksh
+[submodule "leetcode-lisp"]
+	path = leetcode-lisp
+	url = https://github.com/sarvex/leetcode-lisp
+[submodule "leetcode-lol-code"]
+	path = leetcode-lol-code
+	url = https://github.com/sarvex/leetcode-lol-code
+[submodule "leetcode-lua"]
+	path = leetcode-lua
+	url = https://github.com/sarvex/leetcode-lua
+[submodule "leetcode-machine"]
+	path = leetcode-machine
+	url = https://github.com/sarvex/leetcode-machine
+[submodule "leetcode-matlab"]
+	path = leetcode-matlab
+	url = https://github.com/sarvex/leetcode-matlab
+[submodule "leetcode-mini-kanren"]
+	path = leetcode-mini-kanren
+	url = https://github.com/sarvex/leetcode-mini-kanren
+[submodule "leetcode-modula"]
+	path = leetcode-modula
+	url = https://github.com/sarvex/leetcode-modula
+[submodule "leetcode-nativescript"]
+	path = leetcode-nativescript
+	url = https://github.com/sarvex/leetcode-nativescript
+[submodule "leetcode-nelua"]
+	path = leetcode-nelua
+	url = https://github.com/sarvex/leetcode-nelua
+[submodule "leetcode-nim"]
+	path = leetcode-nim
+	url = https://github.com/sarvex/leetcode-nim
+[submodule "leetcode-nushell"]
+	path = leetcode-nushell
+	url = https://github.com/sarvex/leetcode-nushell
+[submodule "leetcode-object-pascal"]
+	path = leetcode-object-pascal
+	url = https://github.com/sarvex/leetcode-object-pascal
+[submodule "leetcode-ocaml"]
+	path = leetcode-ocaml
+	url = https://github.com/sarvex/leetcode-ocaml
+[submodule "leetcode-odin"]
+	path = leetcode-odin
+	url = https://github.com/sarvex/leetcode-odin
+[submodule "leetcode-pascal"]
+	path = leetcode-pascal
+	url = https://github.com/sarvex/leetcode-pascal
+[submodule "leetcode-perl"]
+	path = leetcode-perl
+	url = https://github.com/sarvex/leetcode-perl
+[submodule "leetcode-pharo"]
+	path = leetcode-pharo
+	url = https://github.com/sarvex/leetcode-pharo
+[submodule "leetcode-php"]
+	path = leetcode-php
+	url = https://github.com/sarvex/leetcode-php
+[submodule "leetcode-piet"]
+	path = leetcode-piet
+	url = https://github.com/sarvex/leetcode-piet
+[submodule "leetcode-powershell"]
+	path = leetcode-powershell
+	url = https://github.com/sarvex/leetcode-powershell
+[submodule "leetcode-prolog"]
+	path = leetcode-prolog
+	url = https://github.com/sarvex/leetcode-prolog
+[submodule "leetcode-purescript"]
+	path = leetcode-purescript
+	url = https://github.com/sarvex/leetcode-purescript
+[submodule "leetcode-q-sharp"]
+	path = leetcode-q-sharp
+	url = https://github.com/sarvex/leetcode-q-sharp
+[submodule "leetcode-r"]
+	path = leetcode-r
+	url = https://github.com/sarvex/leetcode-r
+[submodule "leetcode-racket"]
+	path = leetcode-racket
+	url = https://github.com/sarvex/leetcode-racket
+[submodule "leetcode-raku"]
+	path = leetcode-raku
+	url = https://github.com/sarvex/leetcode-raku
+[submodule "leetcode-rect"]
+	path = leetcode-rect
+	url = https://github.com/sarvex/leetcode-rect
+[submodule "leetcode-rockstar"]
+	path = leetcode-rockstar
+	url = https://github.com/sarvex/leetcode-rockstar
+[submodule "leetcode-ruby"]
+	path = leetcode-ruby
+	url = https://github.com/sarvex/leetcode-ruby
+[submodule "leetcode-rust"]
+	path = leetcode-rust
+	url = https://github.com/sarvex/leetcode-rust
+[submodule "leetcode-s"]
+	path = leetcode-s
+	url = https://github.com/sarvex/leetcode-s
+[submodule "leetcode-scala"]
+	path = leetcode-scala
+	url = https://github.com/sarvex/leetcode-scala
+[submodule "leetcode-scheme"]
+	path = leetcode-scheme
+	url = https://github.com/sarvex/leetcode-scheme
+[submodule "leetcode-scopes"]
+	path = leetcode-scopes
+	url = https://github.com/sarvex/leetcode-scopes
+[submodule "leetcode-scratch"]
+	path = leetcode-scratch
+	url = https://github.com/sarvex/leetcode-scratch
+[submodule "leetcode-shakespeare"]
+	path = leetcode-shakespeare
+	url = https://github.com/sarvex/leetcode-shakespeare
+[submodule "leetcode-simula"]
+	path = leetcode-simula
+	url = https://github.com/sarvex/leetcode-simula
+[submodule "leetcode-skip"]
+	path = leetcode-skip
+	url = https://github.com/sarvex/leetcode-skip
+[submodule "leetcode-small-basic"]
+	path = leetcode-small-basic
+	url = https://github.com/sarvex/leetcode-small-basic
+[submodule "leetcode-solidity"]
+	path = leetcode-solidity
+	url = https://github.com/sarvex/leetcode-solidity
+[submodule "leetcode-swift"]
+	path = leetcode-swift
+	url = https://github.com/sarvex/leetcode-swift
+[submodule "leetcode-tcsh"]
+	path = leetcode-tcsh
+	url = https://github.com/sarvex/leetcode-tcsh
+[submodule "leetcode-tsh"]
+	path = leetcode-tsh
+	url = https://github.com/sarvex/leetcode-tsh
+[submodule "leetcode-typescript"]
+	path = leetcode-typescript
+	url = https://github.com/sarvex/leetcode-typescript
+[submodule "leetcode-umka"]
+	path = leetcode-umka
+	url = https://github.com/sarvex/leetcode-umka
+[submodule "leetcode-v"]
+	path = leetcode-v
+	url = https://github.com/sarvex/leetcode-v
+[submodule "leetcode-vala"]
+	path = leetcode-vala
+	url = https://github.com/sarvex/leetcode-vala
+[submodule "leetcode-wren"]
+	path = leetcode-wren
+	url = https://github.com/sarvex/leetcode-wren
+[submodule "leetcode-xonsh"]
+	path = leetcode-xonsh
+	url = https://github.com/sarvex/leetcode-xonsh
+[submodule "leetcode-zig"]
+	path = leetcode-zig
+	url = https://github.com/sarvex/leetcode-zig
+[submodule "leetcode-zsh"]
+	path = leetcode-zsh
+	url = https://github.com/sarvex/leetcode-zsh
