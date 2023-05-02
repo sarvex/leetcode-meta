@@ -340,3 +340,30 @@
 [submodule "leetcode-zsh"]
 	path = leetcode-zsh
 	url = https://github.com/sarvex/leetcode-zsh
+[submodule "leetcode-smalltalk"]
+	path = leetcode-smalltalk
+	url = git@github.com:sarvex/leetcode-smalltalk
+[submodule "leetcode-q"]
+	path = leetcode-q
+	url = git@github.com:sarvex/leetcode-q
+[submodule "leetcode-l"]
+	path = leetcode-l
+	url = git@github.com:sarvex/leetcode-l
+[submodule "leetcode-k"]
+	path = leetcode-k
+	url = git@github.com:sarvex/leetcode-k
+[submodule "leetcode-forth"]
+	path = leetcode-forth
+	url = git@github.com:sarvex/leetcode-forth
+[submodule "leetcode-dylog"]
+	path = leetcode-dylog
+	url = git@github.com:sarvex/leetcode-dylog
+[submodule "leetcode-dylan"]
+	path = leetcode-dylan
+	url = git@github.com:sarvex/leetcode-dylan
+[submodule "leetcode-bqn"]
+	path = leetcode-bqn
+	url = git@github.com:sarvex/leetcode-bqn
+[submodule "leetcode-a"]
+	path = leetcode-a
+	url = git@github.com:sarvex/leetcode-a
